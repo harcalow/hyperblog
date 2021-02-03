@@ -12,7 +12,15 @@ master 2
 =======
 =======
 
+<<<<<<< HEAD
 
 Experimento 1
 >>>>>>> e441cf4 (exp1)
+<<<<<<< HEAD
 >>>>>>> fcebbe6 (exp1)
+=======
+=======
+Experimento 1
+Experimento 2
+>>>>>>> 1a3d400 (exp2)
+>>>>>>> 531c65e (exp2)
