@@ -1,11 +1,4 @@
 Hola soy harold calderon estoy haciendo el curso en platzi 
 
-<<<<<<< HEAD
-Master 2
-=======
 master 1
 
-Experimento 1
-
-Experimento 2
->>>>>>> be78c08 (Exp 2)
