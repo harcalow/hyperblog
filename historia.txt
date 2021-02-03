@@ -1,9 +1,18 @@
 Hola soy harold calderon estoy haciendo el curso en platzi 
 
+<<<<<<< HEAD
 master 1
 
+<<<<<<< HEAD
 
 
 
 
 master 2
+=======
+=======
+
+
+Experimento 1
+>>>>>>> e441cf4 (exp1)
+>>>>>>> fcebbe6 (exp1)
